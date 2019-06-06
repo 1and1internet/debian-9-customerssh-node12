@@ -1,4 +1,4 @@
-# Debian 9 (Stretch) Docker Image For Customer SSH (Node 8 only)
+# Debian 9 (Stretch) Docker Image For Customer SSH (Node 12 only)
 
 ## Description
 
